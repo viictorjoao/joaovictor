@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Ciência+da+Computação;Desenvolvedor+HTML+e+JavaScript;Apaixonado+por+Tecnologia+e+Inovação;Sempre+aprendendo+algo+novo+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Estudante+de+Ciência+da+Computação;Desenvolvedor+JavaScript+e+Python;Entusiasta+de+Game+Development;Sempre+aprendendo+algo+novo+🚀" />
 </p>
 
 <p align="center">
@@ -18,25 +18,32 @@
 
 Meu nome é **João Victor** e sou estudante de **Ciência da Computação na Uninorte**.
 
-Tenho interesse em desenvolvimento de software, aplicações web e tecnologias que possam gerar impacto positivo na sociedade.
+Sou apaixonado por tecnologia, inovação e desenvolvimento de software. Tenho interesse em desenvolvimento web, programação, criação de jogos e soluções tecnológicas que gerem impacto positivo na sociedade.
 
-Ao longo da minha trajetória acadêmica participei de projetos importantes, como:
+Ao longo da minha trajetória acadêmica, participei de projetos que fortaleceram minhas habilidades técnicas, criativas e colaborativas, permitindo aplicar conhecimentos em desenvolvimento, resolução de problemas e trabalho em equipe.
 
-🎮 Desenvolvimento de um **Game Show Interativo**
-
-📱 Desenvolvimento de um **Aplicativo Mobile**
-
-💡 Projetos voltados para resolução de problemas através da tecnologia
-
-Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e contribuir para projetos inovadores.
+Atualmente busco ampliar meus conhecimentos em programação, engenharia de software e desenvolvimento de jogos, sempre buscando novos desafios e oportunidades de aprendizado.
 
 ---
 
 # 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=javascript,python,git,github,vscode" />
 </p>
+
+### 💻 Linguagens Mais Utilizadas
+
+- JavaScript
+- Python
+
+### 🎮 Áreas de Interesse
+
+- Desenvolvimento Web
+- Desenvolvimento de Jogos
+- Game Engines
+- Engenharia de Software
+- Tecnologia e Inovação
 
 ---
 
@@ -52,20 +59,13 @@ Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e
 
 ---
 
-# 🏆 Conquistas
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=viictorjoao&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
 # 📚 Atualmente Estudando
 
-- JavaScript avançado 
+- JavaScript Avançado
+- Python
 - Estruturas de Dados
 - Engenharia de Software
-- Desenvolvimento Web
+- Desenvolvimento de Jogos
 - Boas Práticas de Programação
 
 ---
@@ -74,11 +74,20 @@ Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e
 
 ### 🎮 Game Show
 
-Projeto desenvolvido com foco em interação, lógica de programação e experiência do usuário.
+Projeto acadêmico desenvolvido com foco em interação, lógica de programação, experiência do usuário e trabalho em equipe. A experiência contribuiu para o desenvolvimento de habilidades em planejamento, implementação e resolução de problemas.
 
-### 📱 Aplicativo Mobile
+### 🌱 Hackaçu 2024 – Desenvolvimento Sustentável
 
-Aplicação desenvolvida para colocar em prática conceitos de engenharia de software, planejamento e desenvolvimento colaborativo.
+Participação no Hackaçu 2024, iniciativa voltada à criação de soluções tecnológicas para desafios relacionados ao desenvolvimento sustentável. O projeto proporcionou experiência em inovação, colaboração multidisciplinar e aplicação da tecnologia para geração de impacto social e ambiental.
+
+---
+
+# 🎯 Objetivos
+
+- Aprimorar minhas habilidades em JavaScript e Python.
+- Desenvolver projetos inovadores utilizando boas práticas de programação.
+- Expandir conhecimentos em desenvolvimento de jogos e game engines.
+- Contribuir para projetos de tecnologia com impacto positivo na sociedade.
 
 ---
 
@@ -90,11 +99,13 @@ Aplicação desenvolvida para colocar em prática conceitos de engenharia de sof
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/joão-victor-oliveira-santos-65b84b324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-
+<a href="mailto:SEU_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
 
@@ -107,50 +118,4 @@ Aplicação desenvolvida para colocar em prática conceitos de engenharia de sof
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
----
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-oliveira-santos-65b84b324?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viictorjoao)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=viictorjoao&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viictorjoao&layout=compact&theme=tokyonight)
-
----
-
-## 💻 Technologies I Use
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-</p>
-
----
-
-## 🎯 Academic Projects
-
-### 🎮 Game Show Project
-Development of an interactive Game Show application focused on user engagement, interface design, and software development practices.
-
-### 📱 Mobile Application Project
-Participation in the planning and development of a mobile application, applying concepts of software engineering, collaboration, and problem-solving.
-
----
-
-## 📚 Currently Learning
-
-- Advanced JavaScript
-- Software Engineering
-- Data Structures and Algorithms
-- Web Development Best Practices
-
----
-
-> "Technology is not just about code; it's about creating solutions that make a difference."
